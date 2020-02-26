@@ -7,7 +7,7 @@ specified vector of probabilities.
 import numpy as np
 from numpy import cumsum
 from .util import check_random_state
-
+"""heres a edit
 
 class DiscreteRV:
     """
